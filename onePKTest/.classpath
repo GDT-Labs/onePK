@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/dev/libs/onePK/Java/libonep-core-rel-1.0.0.84.jar"/>
+	<classpathentry kind="lib" path="C:/dev/libs/onePK/Java/libthrift-0.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/dev/libs/onePK/Java/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/dev/libs/onePK/Java/slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/dev/libs/smack_3_3_0/smack.jar"/>
+	<classpathentry kind="lib" path="C:/dev/libs/smack_3_3_0/smackx.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
